@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/instance/
+*.db
+node_modules/
+frontend/visagio/.dart_tool/
+frontend/visagio/build/
+frontend/visagio/android/local.properties
+artifacts/
+visagio-entrega.bundle
+package-lock.json
